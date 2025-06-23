@@ -9,15 +9,15 @@ This repository contains the projects for the CS 155 course. Below you'll find l
 
 ## Project 1
 
-- **Explanation**: You can view the detailed explanation of this project in the [Project 1 PDF](./Project_1/Project_1_Explanation.pdf).
+- **Explanation**: [Project 1 PDF](./Project_1/Project_1_Explanation.pdf).
 
 ### Project 2
 
-- **Explanation**: The detailed explanation of this project can be viewed in the [Project 2 PDF](./Project_2/Project_2_Explanation.pdf).
+- **Explanation**: SVD Models [Project 2 PDF](./Project_2/Project_2_Explanation.pdf).
 
 ### Project 3
 
-- **Explanation**: You can find the explanation of the project in the [Project 3 PDF](./Project_3/Project_3_Explanation.pdf).
+- **Explanation**: RNN and HMM  [Project 3 PDF](./Project_3/Project_3_Explanation.pdf).
 
 ## Notes
 - Each project is structured with a detailed explanation in the PDF and the code provided via Google Colab for easy execution and testing.
