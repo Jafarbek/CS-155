@@ -9,19 +9,13 @@ This repository contains the projects for the CS 155 course. Below you'll find l
 
 ## Project 1
 
-### Project 1
-
 - **Explanation**: You can view the detailed explanation of this project in the [Project 1 PDF](./Project_1/Project_1_Explanation.pdf).
 
 ### Project 2
 
-### Project 2:
-
 - **Explanation**: The detailed explanation of this project can be viewed in the [Project 2 PDF](./Project_2/Project_2_Explanation.pdf).
 
 ### Project 3
-
-### Project 3: [Title or Description of Project 3]
 
 - **Explanation**: You can find the explanation of the project in the [Project 3 PDF](./Project_3/Project_3_Explanation.pdf).
 
